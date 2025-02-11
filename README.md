@@ -19,7 +19,7 @@ A software developer with over 6 years of experience in various programming doma
 
     Quera C++: Brief explanation of challenges and solutions.
 
-    GWO+GA: A Mixed algorithm for task scheduling.
+    GWO+GA: [A Mixed algorithm for task scheduling.](https://github.com/Mahdidevz/GA-GWO)
 
 🌱 Currently Learning:
 
